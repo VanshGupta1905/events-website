@@ -1,4 +1,4 @@
-## This is a boiler plate website for event registration web app
+## This is a boiler plate for event registration web app
 
 Link to Website : [Link](https://events-website-puce.vercel.app/)
 
